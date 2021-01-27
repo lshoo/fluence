@@ -1,0 +1,11 @@
+(function() {var implementors = {};
+implementors["aquamarine"] = [{"text":"impl Clone for AquamarineApi","synthetic":false,"types":[]},{"text":"impl Clone for VmPoolConfig","synthetic":false,"types":[]},{"text":"impl Clone for SendParticle","synthetic":false,"types":[]},{"text":"impl Clone for StepperEffects","synthetic":false,"types":[]}];
+implementors["connection_pool"] = [{"text":"impl Clone for ConnectionPoolApi","synthetic":false,"types":[]},{"text":"impl Clone for Contact","synthetic":false,"types":[]},{"text":"impl Clone for LifecycleEvent","synthetic":false,"types":[]}];
+implementors["fluence_client"] = [{"text":"impl Clone for Transport","synthetic":false,"types":[]},{"text":"impl Clone for ClientCommand","synthetic":false,"types":[]},{"text":"impl Clone for ClientEvent","synthetic":false,"types":[]}];
+implementors["kademlia"] = [{"text":"impl Clone for KademliaApi","synthetic":false,"types":[]}];
+implementors["particle_closures"] = [{"text":"impl&lt;C:&nbsp;Clone&gt; Clone for HostClosures&lt;C&gt;","synthetic":false,"types":[]},{"text":"impl Clone for NodeInfo","synthetic":false,"types":[]}];
+implementors["particle_modules"] = [{"text":"impl Clone for Blueprint","synthetic":false,"types":[]}];
+implementors["particle_protocol"] = [{"text":"impl Clone for ProtocolConfig","synthetic":false,"types":[]},{"text":"impl Clone for Particle","synthetic":false,"types":[]}];
+implementors["server_config"] = [{"text":"impl Clone for AppServicesConfig","synthetic":false,"types":[]},{"text":"impl Clone for BootstrapConfig","synthetic":false,"types":[]},{"text":"impl Clone for NodeConfig","synthetic":false,"types":[]},{"text":"impl Clone for KademliaConfig","synthetic":false,"types":[]},{"text":"impl Clone for ListenConfig","synthetic":false,"types":[]},{"text":"impl Clone for ServicesConfig","synthetic":false,"types":[]}];
+implementors["test_utils"] = [{"text":"impl Clone for Trust","synthetic":false,"types":[]},{"text":"impl Clone for SwarmConfig","synthetic":false,"types":[]},{"text":"impl Clone for CreatedService","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["particle_protocol"] = [{"text":"impl&lt;Socket&gt; InboundUpgrade&lt;Socket&gt; for ProtocolConfig <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;Socket: AsyncRead + AsyncWrite + Send + Unpin + 'static,&nbsp;</span>","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

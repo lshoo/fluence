@@ -1,0 +1,8 @@
+(function() {var implementors = {};
+implementors["connection_pool"] = [{"text":"impl&lt;'de&gt; Deserialize&lt;'de&gt; for Contact","synthetic":false,"types":[]}];
+implementors["fluence_client"] = [{"text":"impl&lt;'de&gt; Deserialize&lt;'de&gt; for ClientCommand","synthetic":false,"types":[]},{"text":"impl&lt;'de&gt; Deserialize&lt;'de&gt; for ClientEvent","synthetic":false,"types":[]}];
+implementors["particle_modules"] = [{"text":"impl&lt;'de&gt; Deserialize&lt;'de&gt; for Blueprint","synthetic":false,"types":[]}];
+implementors["particle_protocol"] = [{"text":"impl&lt;'de&gt; Deserialize&lt;'de&gt; for ProtocolConfig","synthetic":false,"types":[]},{"text":"impl&lt;'de&gt; Deserialize&lt;'de&gt; for Particle","synthetic":false,"types":[]}];
+implementors["particle_providers"] = [{"text":"impl&lt;'de&gt; Deserialize&lt;'de&gt; for Provider","synthetic":false,"types":[]}];
+implementors["server_config"] = [{"text":"impl&lt;'de&gt; Deserialize&lt;'de&gt; for BootstrapConfig","synthetic":false,"types":[]},{"text":"impl&lt;'de&gt; Deserialize&lt;'de&gt; for FluenceConfig","synthetic":false,"types":[]},{"text":"impl&lt;'de&gt; Deserialize&lt;'de&gt; for NodeConfig","synthetic":false,"types":[]},{"text":"impl&lt;'de&gt; Deserialize&lt;'de&gt; for KademliaConfig","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
